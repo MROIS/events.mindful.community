@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include nav.html %}
+    {% include header.html %}
+
+    <section class="content-section-a">
+        <div class="container">
+          <h1>{{page.title}}</h1>
+          <div class="row">
+              <div class="col-lg-6">
+                  <p>
+                    <strong>Date:</strong> {{page.date-time}}</strong><br>
+                    <strong>Location:</strong> {{ page.location }}<br>
+                    {% if page.link %}<strong>Link:</strong> <a href="{{ page.link }}">{{ page.link }}</a><br>{% endif %}
+                  </p>
+              </div>
+              {% if page.image %}
+              <div class="col-lg-6">
+                  <img class="img-fluid" src="/events/{{page.image}}" style="padding:5px; max-height:300px" alt="Event Image">
+              </div>
+              {% endif %}
+          </div>
+          {{ content }}
+          <br>
+        </div>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+
+</html>
+
+
+
+</div>
