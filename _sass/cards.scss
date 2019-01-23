@@ -181,8 +181,8 @@ $black: #000;
   opacity: 1 !important;
 }
 .container {
-  max-width: 800px;
-  min-width: 640px;
+//  max-width: 800px;
+//  min-width: 640px;
   margin: 0 auto;
 }
 .container:before,
@@ -192,13 +192,19 @@ $black: #000;
   clear: both;
 }
 .container .column {
-  width: 50%;
   padding: 0 25px;
   -webkti-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   float: left;
 }
+
+@media only screen and (min-width: 600px) {
+  .container .column {
+    width: 50%;
+  }
+}
+
 
 .container .info {
   width: 300px;
