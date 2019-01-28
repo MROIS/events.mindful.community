@@ -11,28 +11,14 @@ image: peace.jpg
 
 Here are the dates and locations for the in-person recitations of the 14 MTs in Portland for the coming year.  Please share this info freely with your sanghas, and save the dates on your calendar, if interested.
 
-
-Monday, Jan. 29 (7:15-9pm)
-Joyful Refuge Sangha
-4312 SE Stark St.
-
-Feb. (in home-TBA)
-
-Thursday, Mar. 29 (7:15-9pm)
-Thursday Night Sangha
-
-Monday, April 30 (7:15-9pm)
-Joyful Refuge Sangha
-4312 SE Stark St.
-
-Thursday, May 31 (7:15-9pm)
-Thursday Night Sangha
-
-June  (in home-TBA)
-
-Monday, July 30 (7:15-9pm)
-Joyful Refuge Sangha
-4312 SE Stark St.
-
-Thursday, Aug. 30 (7:15-9pm)
-Thursday Night Sangha
+* Feb 20:  Heart of Insight Sangha
+* Mar 20: Heart of Insight Sangha
+* Apr 29: Joyful Refuge Sangha
+* May 16: Thursday Night Sangha
+* Jun 19: Heart of Insight Sangha
+* Jul 29: Joyful Refuge Sangha
+* Aug. 15: Heart of Insight Sangha
+* Sep 30: Joyful Refuge Sangha
+* Oct 17: Thursday Night Sangha
+* Nov. 20: Heart of Insight Sangha
+* Dec. 30: Joyful Refuge Sangha
