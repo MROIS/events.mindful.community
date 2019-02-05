@@ -10,3 +10,5 @@ image: mountainlamp.jpg
 ---
 
 Co-led by Alexa Singer-Telles, Dharma teacher, & Suzanne Cooper, Dharma-Teacher-in -Training, based on the Sutra by the great 12th century Zen Master, Dogen Kigen.
+
+In this silent retreat in the heart of the Cascade Mountains, we will study and practice with the poetic words of the great Japanese Zen Master, Dogen Kigan in "The Four Virtues of a Bodhisattva." "Giving, kind speech, beneficial action, and cooperation" are the virtues, and they are presented in both direct and indirect language, so that the student is not caught in categorizing what cannot be intellectually understood. With an open heart, right effort develops as we simply return to our practice; in this way a door may open and reveal the mystery of both our practice and our lives.
