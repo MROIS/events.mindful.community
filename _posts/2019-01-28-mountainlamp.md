@@ -4,7 +4,7 @@ title:  "4 Virtues of a Bodhisattva"
 event-type: "Retreat"
 permalink: /events/mountainlamp/
 location: "Mountain Lamp, Deming, WA"
-date-time: Wednesday May 22 – Monday May 27, 2019
+date-time: "Wednesday May 22 – Monday May 27, 2019"
 link: http://mountainlamp.org/visiting/registration/
 image: mountainlamp1.jpg
 ---
