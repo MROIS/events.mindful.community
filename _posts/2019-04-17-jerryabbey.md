@@ -6,7 +6,7 @@ permalink: /events/mystics/
 location: "Our Lady of Guadalupe Trappist Abbey<br>9200 NE Abbey Road<br>Carlton , OR"
 date-time: "See Ongoing Schedule"
 link: 
-image: abbey-jerry.png
+image: jerry-abbey.png
 ---
 
 ### Lead by Dharma Teacher Jerry Braza and Order of Interbeing Member John Wadsworth 
