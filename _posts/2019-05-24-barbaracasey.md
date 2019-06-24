@@ -9,7 +9,7 @@ link:
 image: barbara.png
 ---
 
-### Lead by Dharma Teacher Dharma Teacher BARBARA CASEY
+### Lead by Dharma Teacher Barbara Casey
 
 On this day together, we will explore awareness in many different flavors.
 
@@ -21,7 +21,7 @@ She moved to Gig Harbor, Washington, from her home in Ashland, Oregon 4 years ag
 
 <strong>BRING a Sack Lunch</strong>. Tea and Snacks will be available. Some people like to bring a small lap blanket for relaxation. Please bring a notebook and pencil if you want to write during personal time.
 
-<strong>Location:  Portland Friends of the Dhamma 1404 SE 25thAvenue. Corner of SE 25th& SE Madison. Parking available on Hawthorne in the lots of the Dental Office and the Credit Union).</strong>
+<strong>Location:  Portland Friends of the Dhamma 1404 SE 25th Avenue. Corner of SE 25th& SE Madison. Parking available on Hawthorne in the lots of the Dental Office and the Credit Union).</strong>
 
 Contact John Wadsworth at 503-887-5750 for additional information.
  
