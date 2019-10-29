@@ -30,12 +30,3 @@ BRING a Sack Lunch . Tea and Snacks will be available.  Some people like to brin
 
 A basket will be available in which to put DANA, a donation, in appreciation for our Teachers’ Offering and a basket will be available for Dana to the Sangha.
 
- 
-
-For additional information please call or e-mail:
-
-Mary Buckley
-
-310-405-3448
-
-mfbuckley@sbcglobal.net
