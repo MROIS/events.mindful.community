@@ -2,7 +2,7 @@
 layout: event
 title:  "Holding the World Together,"
 event-type: "Retreat"
-permalink: /events/troutlake/
+permalink: /troutlake/
 location: "Trout Lake Abbey<br>46 Stoller Rd.,<br>Trout Lake, WA"
 date-time: "Thursday September 19 – Sunday September 22, 2019"
 link: 
