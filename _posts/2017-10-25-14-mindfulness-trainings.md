@@ -2,7 +2,7 @@
 layout: event
 title:  "Local Portland Recitations of 14 Mindfulness Trainings"
 event-type: "Recitation"
-permalink: /events/local-14-mindfulness-trainings/
+permalink: /local-14-mindfulness-trainings/
 location: "Various Sanghas In Portland Oregon"
 date-time: See Ongoing Schedule
 link:
