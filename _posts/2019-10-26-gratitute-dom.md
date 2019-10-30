@@ -2,7 +2,7 @@
 layout: event
 title:  "Gratitude as a Path of Peace and Awakening"
 event-type: "Day of Mindfulness"
-permalink: /events/dom-gratitude/
+permalink: /dom-gratitude/
 location: "Portland Friends of the Dhamma<br>1404 SE 25th Avenue.<br>Portland , OR"
 date-time: SATURDAY, November 23  9:00 A.M. – 3:00 P. M.
 link: 
