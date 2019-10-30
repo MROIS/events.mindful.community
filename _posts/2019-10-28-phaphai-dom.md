@@ -13,5 +13,4 @@ We have a wonderful and exciting news to share with our friends in Portland/Vanc
 
 Australian by birth, Brother Phap Hai or Brother Dharma Ocean, was ordained as a monk in 1997 and a Dharma teacher in January 2003 by Thích Nhat Hanh. He is a senior brother at Deer Park Monastery in Southern California and is an active Dharma teacher who leads retreats, days of mindfulness and talks throughout the western United States, Australia, South America and Asia. His first book, Nothing To It: Ten Ways to Be at Home with Yourself, was published by Parallax Press.
 
-Joyful Refuge Sangha is part of Portland Community of Mindful Living. We meet weekly in SE Portland on Mondays, 7:15pm -9:00pm, at Multnomah Friends Meeting House, 4312 SE Stark St., in the main meeting room upstairs. Please learn more about our community at https://portland.mindful.community/
-
+Joyful Refuge Sangha is part of Portland Community of Mindful Living. We meet weekly in SE Portland on Mondays, 7:15pm -9:00pm, at Multnomah Friends Meeting House, 4312 SE Stark St., in the main meeting room upstairs. 
