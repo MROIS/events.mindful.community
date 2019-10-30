@@ -1,32 +1,17 @@
 ---
 layout: event
-title:  "Gratitude as a Path of Peace and Awakening"
+title:  "An evening of mindfulness with Brother Phap Hai"
 event-type: "Day of Mindfulness"
-permalink: /events/dom-gratitude/
-location: "Portland Friends of the Dhamma<br>1404 SE 25th Avenue.<br>Portland , OR"
-date-time: SATURDAY, November 23  9:00 A.M. – 3:00 P. M.
+permalink: /events/phaphai/
+location: "Multnomah Friends Meeting House<br>4312 SE Stark St.<br>Portland , OR"
+date-time: MONDAY, November 18  7:15 P.M. – 9:00 P. M.
 link: 
-image: domnisi.jpg
+image: Phap-Hai.jpg
 ---
 
-#### PLEASE ARRIVE 10 -15 MINUTES EARLY SO HAVE TIME TO SETTLE IN BEFORE WE BEGIN OUR DAY AT 9:00AM. THE ZENDO DOORS WILL BE OPEN BY 8:30AM.
+We have a wonderful and exciting news to share with our friends in Portland/Vancouver area. Joyful Refuge Sangha will be hosting an evening of mindfulness with Brother Phap Hai on Monday, November 18th, 7:15 pm - 9pm, at Multnomah Friends Meeting House, SE Portland, 4312 SE Stark St., in the main meeting room upstairs. This is a lovely and rare opportunity to be practicing with a senior monastic member from Plum Village Tradition in our hometown. Please come and join us. All are welcome!
 
+Australian by birth, Brother Phap Hai or Brother Dharma Ocean, was ordained as a monk in 1997 and a Dharma teacher in January 2003 by Thích Nhất Hạnh. He is a senior brother at Deer Park Monastery in Southern California and is an active Dharma teacher who leads retreats, days of mindfulness and talks throughout the western United States, Australia, South America and Asia. His first book, Nothing To It: Ten Ways to Be at Home with Yourself, was published by Parallax Press.
 
-## Dharma Teachers Sheila Canal & Nisi Ségor   
-
-
-What does gratitude feel like?  How do we experience reverence for life?  In this season of giving thanks, the darkest and often difficult time of year, we give ourselves the time and space just to be. Through sitting, walking, deep relaxation, touching the earth and stillness, we will explore gratitude, reverence and resilience.
-
-
-Our Teachers:
-
-* Sheila, True Spiritual Understanding, attended her first retreat with Thich Nhat Hanh in 1991. She received Lamp Transmission at Plum Village, France in June 2018.
-
-* Nisi, True Mindfulness Virtue,a student of Thays’ since the early 2000’s, received Lamp Transmission at Plum Village, France in June 2018.
-
-BRING a Sack Lunch . Tea and Snacks will be available.  Some people like to bring a small lap blanket for relaxation. 
-
- 
-
-A basket will be available in which to put DANA, a donation, in appreciation for our Teachers’ Offering and a basket will be available for Dana to the Sangha.
+Joyful Refuge Sangha is part of Portland Community of Mindful Living. We meet weekly in SE Portland on Mondays, 7:15pm -9:00pm, at Multnomah Friends Meeting House, 4312 SE Stark St., in the main meeting room upstairs. Please learn more about our community at https://portland.mindful.community/
 
