@@ -2,7 +2,7 @@
 layout: event
 title:  "Online Recitation of 14 Mindfulness Trainings"
 event-type: "Recitation"
-permalink: /events/online-recitation-14-mindfulness-trainings/
+permalink: /online-recitation-14-mindfulness-trainings/
 location: "Online"
 date-time: Third Tuesday Every Month
 link: https://zoom.us/j/516471433
