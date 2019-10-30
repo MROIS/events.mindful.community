@@ -2,7 +2,7 @@
 layout: event
 title:  "The Way of the Mystics : The Interior Journey"
 event-type: "Day of Mindfulness"
-permalink: /events/mystics/
+permalink: /mystics/
 location: "Our Lady of Guadalupe Trappist Abbey<br>9200 NE Abbey Road<br>Carlton , OR"
 date-time: "See Upcoming Schedule"
 link: 
