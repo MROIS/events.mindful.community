@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "An evening of mindfulness with Brother Phap Hai"
-event-type: "Day of Mindfulness"
+event-type: "Special Event"
 permalink: /phaphai/
 location: "Multnomah Friends Meeting House<br>4312 SE Stark St.<br>Portland , OR"
 date-time: MONDAY, November 18  7:15 P.M. – 9:00 P. M.
